@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-case"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Конвертация регистров строк."
+    репозиторий = "github.com/skytech-alt/skyforge-case"
+    точка_входа = "code/main.skf"
+    теги = ["case", "string", "utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
